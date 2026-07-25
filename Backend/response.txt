@@ -1,0 +1,19 @@
+{
+    "captain": {
+        "fullname": {
+            "firstname": "Test_firstname",
+            "lastname": "Test_lastname"
+        },
+        "email": "test@gmail.com",
+        "password": "$2b$10$cjcb2zBbq6/4QCBJ.EVes.u7LzPZBGH5jikJDKK1MrOETVXWtimE6",
+        "staus": "inactive",
+        "vehicle": {
+            "color": "Red",
+            "plate": "UP 57 AB 1234",
+            "capacity": 4,
+            "vehicleType": "car"
+        },
+        "_id": "67b58927db8b05291fed3b29",
+        "__v": 0
+    }
+}
