@@ -23,5 +23,5 @@ A real-time ride booking platform built with the **MERN Stack**, **Socket.IO**, 
 - Admin dashboard
 - Ride management
 
-👨‍💻 Author
-Vishvajeet Sharma
+### 👨‍💻 Author
+**Vishvajeet Sharma**
